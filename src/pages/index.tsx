@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import { Auth } from 'aws-amplify'
-import { Button } from '@aws-amplify/ui-react'
+import { Button, Flex } from '@aws-amplify/ui-react'
 
 export default function Home() {
   const handleSignOut = () => Auth.signOut()
@@ -14,9 +14,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <Button variation="primary" onClick={handleSignOut}>
-          Sign Out
-        </Button>
+        <div className="flex items-center p-4">
+          <Button variation="primary" onClick={handleSignOut}>
+            Sign Out
+          </Button>
+          Main Page
+        </div>
       </main>
     </>
   )

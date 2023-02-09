@@ -1,19 +1,19 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-kebab-dev-94935-authRole",
-      "UnauthRoleArn": "arn:aws:iam::326001507853:role/amplify-kebab-dev-94935-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::326001507853:role/amplify-kebab-dev-94935-authRole",
+      "AuthRoleName": "amplify-kebab-dev-141502-authRole",
+      "UnauthRoleArn": "arn:aws:iam::326001507853:role/amplify-kebab-dev-141502-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::326001507853:role/amplify-kebab-dev-141502-authRole",
       "Region": "ap-northeast-1",
-      "DeploymentBucketName": "amplify-kebab-dev-94935-deployment",
-      "UnauthRoleName": "amplify-kebab-dev-94935-unauthRole",
-      "StackName": "amplify-kebab-dev-94935",
-      "StackId": "arn:aws:cloudformation:ap-northeast-1:326001507853:stack/amplify-kebab-dev-94935/045c6c70-a81c-11ed-8507-064e77084055",
-      "AmplifyAppId": "d2ltieo1og1inz"
+      "DeploymentBucketName": "amplify-kebab-dev-141502-deployment",
+      "UnauthRoleName": "amplify-kebab-dev-141502-unauthRole",
+      "StackName": "amplify-kebab-dev-141502",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:326001507853:stack/amplify-kebab-dev-141502/195d9f20-a841-11ed-8c50-0e905d95eb47",
+      "AmplifyAppId": "d3q54xhhc49y0q"
     },
     "categories": {
       "auth": {
-        "kebab427045ca": {}
+        "kebab8ca83add": {}
       }
     }
   }

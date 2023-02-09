@@ -1,10 +1,10 @@
 {
   "version": "1",
   "cognitoConfig": {
-    "identityPoolName": "kebab427045ca_identitypool_427045ca",
+    "identityPoolName": "kebab8ca83add_identitypool_8ca83add",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "kebab427045ca",
-    "userPoolName": "kebab427045ca_userpool_427045ca",
+    "resourceNameTruncated": "kebab8ca83add",
+    "userPoolName": "kebab8ca83add_userpool_8ca83add",
     "autoVerifiedAttributes": [
       "email"
     ],
@@ -31,10 +31,10 @@
     "userpoolClientReadAttributes": [
       "email"
     ],
-    "userpoolClientLambdaRole": "kebab4427045ca_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "kebab88ca83add_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "427045ca",
-    "resourceName": "kebab427045ca",
+    "sharedId": "8ca83add",
+    "resourceName": "kebab8ca83add",
     "authSelections": "identityPoolAndUserPool",
     "useDefault": "default",
     "usernameAttributes": [
